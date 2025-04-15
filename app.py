@@ -1,3 +1,3 @@
-from litellm.proxy.server import proxy_server
+from litellm.proxy.proxy_server import proxy_server
 
 proxy_server()
