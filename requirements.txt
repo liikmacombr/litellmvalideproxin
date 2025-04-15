@@ -1,0 +1,3 @@
+litellm[proxy]==0.1.353
+uvicorn
+fastapi
